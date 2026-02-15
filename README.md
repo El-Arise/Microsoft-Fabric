@@ -28,20 +28,24 @@ This repository supports my learning in:
 • 	Applying Fabric to real‑world data engineering scenarios
 
 
-🙏 Acknowledgements
-
-I would like to express my appreciation to a friend who generously provided temporary access to their Microsoft Fabric environment so I could complete the hands‑on components of this DataChallenge. 
-
-Their support made it possible for me to practice real Fabric workloads and complete the Microsoft Learn exercises included in this repository.
-
-Please note:
-
-Some screenshots and PySpark outputs may display their username as part of the Fabric workspace environment. 
-
-This reflects the environment in which the exercises were completed.
 
 🤝 Contributing
 
 This repository is part of my personal learning journey, but suggestions and improvements are always welcome. 
 
 Feel free to open an issue or submit a pull request.
+
+
+
+    🙏 Acknowledgement
+
+     I want to express my appreciation to a friend who generously provided temporary access to their Microsoft Fabric environment, 
+     allowing me to complete the hands-on components of this Data Challenge.
+
+     Their support made it possible for me to practice real Fabric workloads and complete the Microsoft Learn exercises included in this repository.
+
+     Please note:
+
+     Some screenshots and PySpark outputs may display their username as part of the Fabric workspace environment.
+
+     This reflects the environment in which the exercises were completed.
