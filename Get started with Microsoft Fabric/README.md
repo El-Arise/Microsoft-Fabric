@@ -1,10 +1,6 @@
-📘 MICROSOFT FABRIC – Learning Repository
+📘 MICROSOFT FABRIC – Get Started with Microsoft Fabric
 
-Welcome to my Microsoft Fabric Learning Repository, created as part of the DataChallenge Program with Poshem Technologies Institute. 
-
-This space documents my hands‑on journey through Microsoft Learn as I explore Microsoft Fabric — Microsoft’s unified analytics platform designed for modern data engineering.
-
-This repository will include my notes, exercises, and screenshots of completed Microsoft Learn modules and labs, showcasing my progress and practical understanding of Fabric’s capabilities.
+This folder documents my hands‑on journey through Microsoft Learn as I explore Microsoft Fabric — Microsoft’s unified analytics platform designed for modern data engineering.
 
 Think of Microsoft Fabric as an all‑in‑one toolbox for working with data.
 
@@ -29,7 +25,7 @@ It’s designed to make data work easier, even for beginners.
 
 🎯 LEARNING OBJECTIVES
 
-This repository supports my learning in:
+This folder supports my learning in:
 - End‑to‑end analytics: How data moves from raw form to useful insights.
   
 - Lakehouses: A modern way to store data so it’s flexible and easy to analyze.
@@ -51,13 +47,17 @@ This repository supports my learning in:
 - Pipelines: Automating data tasks so they run on their own.
 
 
-EARNING PROGRESS
-This repo includes screenshots of:
-- Completed Microsoft Learn modules
+LEARNING PROGRESS
+This folder includes screenshots of:
+- Completed Microsoft Learn modules [Exercises]
   
-- Hands‑on labs
+- Hands‑on labs [Exercises]
   
-- PySpark results
+- PySpark results [Exercises]
+  
+- Errors
+  
+- Notes
 
 These show my progress through the full learning path.
 
