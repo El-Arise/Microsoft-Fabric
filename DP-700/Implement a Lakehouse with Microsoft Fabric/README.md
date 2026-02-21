@@ -1,26 +1,65 @@
-📘 Microsoft Fabric – Learning Repository
+📘 MICROSOFT FABRIC – Implement a Lakehouse with Microsoft Fabric 
 
-Welcome to my Microsoft Fabric Learning Repository, created as part of the DataChallenge Program with Poshem Technologies Institute. 
+This folder contains my work for the Implement a Lakehouse with Microsoft Fabric learning path. 
+It’s part of my training at the Poshem Technologies Institute DataChallenge, 
+where I am learning how modern data systems are built using Microsoft Fabric.
 
-This space documents my hands‑on journey through Microsoft Learn as I explore Microsoft Fabric — Microsoft’s unified analytics platform designed for modern data engineering.
+ What Is a “Lakehouse”?
+A lakehouse is a modern way of storing and organizing data.
 
-This repository will include my notes, exercises, and screenshots of completed Microsoft Learn modules and labs, showcasing my progress and practical understanding of Fabric’s capabilities.
+    Think of it like this:
+    - A data lake is a giant storage room where you can dump all kinds of data.
+    - A data warehouse is a neatly organized library where everything is structured and easy to query.
+
+    A lakehouse combines both ideas:
+    - You can store any kind of data (like a lake).
+    - You can organize and analyze it efficiently (like a warehouse).
+
+Microsoft Fabric provides tools that make building and managing a lakehouse much easier.
+
+This learning path introduces the core building blocks of a lakehouse in Microsoft Fabric.
+
+🎯 LEARNING OBJECTIVES
+
+1. Introduction to End‑to‑End Analytics Using Microsoft Fabric
+
+    A beginner‑friendly overview of how Fabric brings all data tools together in one place.
+
+2. Get Started with Lakehouses in Microsoft Fabric
+
+    Learn what a lakehouse is, how it works, and how Fabric helps you build one.
+
+3. Use Apache Spark in Microsoft Fabric
+
+    Spark is a tool for processing large amounts of data. Here, I learned how to use notebooks to explore and transform data.
+
+4. Work with Delta Lake Tables in Microsoft Fabric
+
+    Delta tables help keep data reliable, organized, and easy to update — essential for any lakehouse.
+
+5. Ingest Data with Dataflows Gen2
+
+    A visual, no‑code way to bring data into the lakehouse.
+
+6. Orchestrate Processes and Data Movement
+
+    Learn how to automate data tasks using pipelines.
+
+7. Organize a Fabric Lakehouse Using Medallion Architecture
+
+    A simple method for organizing data into Bronze, Silver, and Gold layers for better quality and analytics.
 
 
-🎯 Learning Objectives
+LEARNING PROGRESS
 
-This repository supports my learning in:
+This folder includes screenshots of:
+- Completed Microsoft Learn modules
+  
+- Hands‑on labs
+  
+- PySpark results
 
-
-
-
-🤝 Contributing
-
-This repository is part of my personal learning journey, but suggestions and improvements are always welcome. 
-
-Feel free to open an issue or submit a pull request.
-
-
+These show my progress through the full learning path.
 
     🙏 Acknowledgement
 
