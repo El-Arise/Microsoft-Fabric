@@ -1,26 +1,44 @@
-📘 Microsoft Fabric – Learning Repository
+📘 MICROSOFT FABRIC – Ingest Data with Microsoft Fabric 
 
-Welcome to my Microsoft Fabric Learning Repository, created as part of the DataChallenge Program with Poshem Technologies Institute. 
+This folder contains my work for the Ingest Data with Microsoft Fabric learning path. 
+It’s part of my training at the Poshem Technologies Institute DataChallenge, 
+where I am learning how data is brought into Microsoft Fabric and prepared for analysis.
 
-This space documents my hands‑on journey through Microsoft Learn as I explore Microsoft Fabric — Microsoft’s unified analytics platform designed for modern data engineering.
-
-This repository will include my notes, exercises, and screenshots of completed Microsoft Learn modules and labs, showcasing my progress and practical understanding of Fabric’s capabilities.
-
-
-🎯 Learning Objectives
-
-This repository supports my learning in:
+“Ingesting data” means bringing data from one place into another — like loading a file, pulling information from a database, or streaming live data.
+Microsoft Fabric provides tools that make this process easier, faster, and more organized.
+In this learning path, I explored four main ways to bring data into Fabric.
 
 
+🎯 LEARNING OBJECTIVES
+
+1. Ingest Data with Dataflows Gen2
+
+   A visual, no‑code way to bring in and clean data using Power Query Online.
+
+3. Orchestrate Processes and Data Movement
+
+   Learn how to automate data tasks using pipelines — like setting up a machine that runs your data jobs for you.
+
+5. Use Apache Spark in Microsoft Fabric
+
+   Spark helps process large amounts of data quickly. I used notebooks to explore and transform data.
+
+7. Work with Real‑Time Data in an Eventhouse
+
+   Learn how to handle data that updates every second, such as live events or streaming information.
 
 
-🤝 Contributing
 
-This repository is part of my personal learning journey, but suggestions and improvements are always welcome. 
+LEARNING PROGRESS
 
-Feel free to open an issue or submit a pull request.
+This folder includes screenshots of:
+- Completed Microsoft Learn modules
+  
+- Hands‑on labs
+  
+- PySpark results
 
-
+These show my progress through the full learning path.
 
     🙏 Acknowledgement
 
