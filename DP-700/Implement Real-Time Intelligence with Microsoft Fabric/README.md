@@ -1,26 +1,54 @@
-📘 Microsoft Fabric – Learning Repository
+📘 MICROSOFT FABRIC – Implement Real-Time Intelligence with Microsoft Fabric 
 
-Welcome to my Microsoft Fabric Learning Repository, created as part of the DataChallenge Program with Poshem Technologies Institute. 
+This folder contains my work for the Real‑Time Intelligence learning path in Microsoft Fabric. 
+It’s part of my training at the Poshem Technologies Institute DataChallenge, 
+where I’m learning how to work with data that updates every second — 
+like live website clicks, sensor readings, or financial transactions.
 
-This space documents my hands‑on journey through Microsoft Learn as I explore Microsoft Fabric — Microsoft’s unified analytics platform designed for modern data engineering.
+What Real‑Time Intelligence Is
+Real‑Time Intelligence (RTI) helps you work with data in motion — 
+information that arrives continuously and requires immediate processing.
 
-This repository will include my notes, exercises, and screenshots of completed Microsoft Learn modules and labs, showcasing my progress and practical understanding of Fabric’s capabilities.
+Microsoft Fabric provides tools that make building and managing a lakehouse much easier.
+
+This learning path introduces the core building blocks of a lakehouse in Microsoft Fabric.
+
+🎯 LEARNING OBJECTIVES
+
+1. Get Started with Real‑Time Intelligence
+
+   Learning the basics of how Fabric captures, processes, stores, and visualizes live data.
+
+2. Use Eventstream in Microsoft Fabric
+
+   Eventstream is a tool that collects, cleans, and routes real‑time data.
+
+3. Work with Real‑Time Data in an Eventhouse
+
+   An Eventhouse is a special storage container for real‑time data.
+
+   Inside it are KQL databases, which let you query and analyze streaming information.
+
+4. Create Real‑Time Dashboards
+
+   How to build dashboards that update instantly as new data arrives.
+
+5. Use Activator in Microsoft Fabric
+
+   Activator is an automation tool that watches your data and reacts when something important happens.
 
 
-🎯 Learning Objectives
 
-This repository supports my learning in:
+LEARNING PROGRESS
 
+This folder includes screenshots of:
+- Completed Microsoft Learn modules
+  
+- Hands‑on labs
+  
+- PySpark results
 
-
-
-🤝 Contributing
-
-This repository is part of my personal learning journey, but suggestions and improvements are always welcome. 
-
-Feel free to open an issue or submit a pull request.
-
-
+These show my progress through the full learning path.
 
     🙏 Acknowledgement
 
