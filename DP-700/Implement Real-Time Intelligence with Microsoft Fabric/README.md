@@ -1,7 +1,7 @@
 📘 MICROSOFT FABRIC – Implement Real-Time Intelligence with Microsoft Fabric 
 
 This folder contains my work for the Real‑Time Intelligence learning path in Microsoft Fabric. 
-It’s part of my training at the Poshem Technologies Institute DataChallenge, 
+It is part of my training at the Poshem Technologies Institute DataChallenge, 
 where I’m learning how to work with data that updates every second — 
 like live website clicks, sensor readings, or financial transactions.
 
