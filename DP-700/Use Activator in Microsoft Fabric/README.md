@@ -1,4 +1,4 @@
-📘 MICROSOFT FABRIC – Implement Real-Time Intelligence with Microsoft Fabric 
+📘 MICROSOFT FABRIC – Use Activator with Microsoft Fabric 
 
 This folder contains my work for the Use Activator in the Microsoft Fabric module.
 It is also part of the Implement Real‑Time Intelligence with Microsoft Fabric learning path.  
