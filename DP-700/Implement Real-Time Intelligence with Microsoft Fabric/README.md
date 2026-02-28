@@ -5,7 +5,8 @@ It is part of my training at the Poshem Technologies Institute DataChallenge,
 where I’m learning how to work with data that updates every second — 
 like live website clicks, sensor readings, or financial transactions.
 
-What Real‑Time Intelligence Is
+What Real‑Time Intelligence is:
+
 Real‑Time Intelligence (RTI) helps you work with data in motion — 
 information that arrives continuously and requires immediate processing.
 
