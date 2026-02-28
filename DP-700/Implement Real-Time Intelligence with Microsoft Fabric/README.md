@@ -28,7 +28,7 @@ This learning path introduces the core building blocks of a lakehouse in Microso
 
    An Eventhouse is a special storage container for real‑time data.
 
-   Inside it are KQL databases, which let you query and analyze streaming information.
+   Inside it are KQL databases that let you query and analyze streaming data.
 
 4. Create Real‑Time Dashboards
 
