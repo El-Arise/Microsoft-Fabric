@@ -1,26 +1,47 @@
-📘 Microsoft Fabric – Learning Repository
+📘 MICROSOFT FABRIC – Implement Real-Time Intelligence with Microsoft Fabric 
 
-Welcome to my Microsoft Fabric Learning Repository, created as part of the DataChallenge Program with Poshem Technologies Institute. 
-
-This space documents my hands‑on journey through Microsoft Learn as I explore Microsoft Fabric — Microsoft’s unified analytics platform designed for modern data engineering.
-
-This repository will include my notes, exercises, and screenshots of completed Microsoft Learn modules and labs, showcasing my progress and practical understanding of Fabric’s capabilities.
+This folder contains my work for the Use Activator in the Microsoft Fabric module.
+It is also part of the Implement Real‑Time Intelligence with Microsoft Fabric learning path.  
+It focuses on detecting important events in live data and automatically triggering actions.
 
 
-🎯 Learning Objectives
+What Activator is:
 
-This repository supports my learning in:
+Activator is Microsoft Fabric’s event detection engine.
+It watches your real‑time data and reacts when certain conditions are met — 
+like sending alerts or starting automated workflows.
+        
+    Think of it like a smart security system:
+    - It monitors what’s happening.
+    - It checks for specific conditions.
+    - It takes action instantly.
 
+This learning module introduces how Activator helps you in Microsoft Fabric.
 
+🎯 LEARNING OBJECTIVES
 
+1. Define data objects and properties
 
-🤝 Contributing
+   What you want to monitor — like packages, sensors, or transactions.
 
-This repository is part of my personal learning journey, but suggestions and improvements are always welcome. 
+2. Create rules
 
-Feel free to open an issue or submit a pull request.
+   Conditions that tell Activator when to react.
 
+4. Configure actions
 
+   What should happen when a rule is triggered — email, Teams message, workflow, etc.
+
+LEARNING PROGRESS
+
+This folder includes screenshots of:
+- Completed Microsoft Learn modules
+  
+- Hands‑on labs
+  
+- PySpark results
+
+These show my progress through the full learning path.
 
     🙏 Acknowledgement
 
