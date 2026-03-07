@@ -1,57 +1,49 @@
-📘 MICROSOFT FABRIC – Use Activator with Microsoft Fabric 
+📘 MICROSOFT APPLIED SKILLS - Implement a Real‑Time Intelligence Solution with Microsoft Fabric
 
-This folder contains my work for the Use Activator in the Microsoft Fabric module.
-It is also a part of the Implement Real‑Time Intelligence with Microsoft Fabric learning path.  
-It focuses on detecting important events in live data and automatically triggering actions.
+This folder contains my Microsoft Applied Skills certificate and assessment results for the 
+Implement a Real‑Time Intelligence Solution with Microsoft Fabric.
+
+This achievement is part of my training on the Poshem Technologies Institute DataChallenge, 
+where I am developing hands‑on expertise in real‑time analytics, streaming data, and event‑driven automation.
+
+🏅 MICROSOFT APPLIED SKILLS – CERTIFICATION
+
+✔ Certification Earned: Implement a Real‑Time Intelligence Solution with Microsoft Fabric
+- Issued by: Microsoft
+- Recipient: Elizabeth Arise
+- Credential ID: 27FA2EC491453550
+- Earned On: March 3, 2026
 
 
-What Activator is:
-
-Activator is Microsoft Fabric’s event detection engine.
-It watches your real‑time data and reacts when certain conditions are met — 
-like sending alerts or starting automated workflows.
+This certification confirms that I successfully demonstrated the required skills in a live, scenario‑based assessment environment.
         
-    Think of it like a smart security system:
-    - It monitors what’s happening.
-    - It checks for specific conditions.
-    - It takes action instantly.
+🎯 SKILLS VALIDATED
 
-This learning module introduces how Activator helps you in Microsoft Fabric.
+This certification and assessment confirm practical skills in:
 
-🎯 LEARNING OBJECTIVES
+Real‑Time Data Engineering
 
-1. Define data objects and properties
+- Capturing and processing streaming data
+  
+- Using Eventstream for ingestion, transformation, and routing
+  
+Eventhouse & KQL Analytics
 
-   What you want to monitor — like packages, sensors, or transactions.
+- Querying high‑velocity data
+  
+- Working with KQL databases inside an Eventhouse
 
-2. Create rules
 
-   Conditions that tell Activator when to react.
-
-4. Configure actions
-
-   What should happen when a rule is triggered — email, Teams message, workflow, etc.
-
-LEARNING PROGRESS
+📂 WHAT THIS FOLDER INCLUDE
 
 This folder includes screenshots of:
-- Completed Microsoft Learn modules
+- My Microsoft Applied Skills certificate
   
-- Hands‑on labs
+- Screenshot of the assessment results
+
+- Work done in the assessment lab.
   
-- PySpark results
+These files serve as proof of completion and support my professional portfolio.
 
-These show my progress through the full learning path.
 
-    🙏 Acknowledgement
 
-     I want to express my appreciation to a friend who generously provided temporary access to their Microsoft Fabric environment, 
-     allowing me to complete the hands-on components of this Data Challenge.
-
-     Their support made it possible for me to practice real Fabric workloads and complete the Microsoft Learn exercises included in this repository.
-
-     Please note:
-
-     Some screenshots and PySpark outputs may display their username as part of the Fabric workspace environment.
-
-     This reflects the environment in which the exercises were completed.
