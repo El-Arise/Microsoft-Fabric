@@ -1,26 +1,36 @@
-📘 Microsoft Fabric – Learning Repository
+📘 MICROSOFT FABRIC – Manage & Secure a Microsoft Fabric Environment 
 
-Welcome to my Microsoft Fabric Learning Repository, created as part of the DataChallenge Program with Poshem Technologies Institute. 
-
-This space documents my hands‑on journey through Microsoft Learn as I explore Microsoft Fabric — Microsoft’s unified analytics platform designed for modern data engineering.
-
-This repository will include my notes, exercises, and screenshots of completed Microsoft Learn modules and labs, showcasing my progress and practical understanding of Fabric’s capabilities.
+This folder contains my work for the Manage a Microsoft Fabric Environment learning path. 
+It’s part of my training at the Poshem Technologies Institute DataChallenge, 
+where I am building practical skills in security, administration, CI/CD, and monitoring within Microsoft Fabric.
 
 
-🎯 Learning Objectives
+🎯 LEARNING OBJECTIVES
 
-This repository supports my learning in:
+1. Securing data access in Microsoft Fabric
+
+   Understanding Fabric’s multi‑layer security model and applying granular permissions
+2. Administering a Fabric environment
+
+   Managing architecture, governance, security, and administrator responsibilities.
+
+3. Implementing CI/CD in Fabric
+
+   Using Git integration, deployment pipelines, and Fabric APIs for automated workflows.
+
+4. Monitoring Fabric activities
+
+   Using the Monitor Hub and Activator to track, analyze, and respond to system activity.
 
 
+LEARNING PROGRESS
 
+This folder includes screenshots of:
+- Completed Microsoft Learn modules
+  
+- Hands‑on labs
 
-🤝 Contributing
-
-This repository is part of my personal learning journey, but suggestions and improvements are always welcome. 
-
-Feel free to open an issue or submit a pull request.
-
-
+These show my progress through the full learning path.
 
     🙏 Acknowledgement
 
